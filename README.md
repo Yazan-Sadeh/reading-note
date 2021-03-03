@@ -1,4 +1,4 @@
-https://notme20n.files.wordpress.com/2020/01/git.jpeg
+![image](https://user-images.githubusercontent.com/79832871/109868322-268eb480-7c70-11eb-9610-e4b7f7296da2.png)
 
 The Git project is an open source programming project, and it is available for download on computers. It allows the creation and retrieval of projects. It also allows creating a copy of the repository. The local repository depends on three components: the work guide, the index, and the address. It also allows the changes to be saved to all files in the checked out copies of the project file.
 
